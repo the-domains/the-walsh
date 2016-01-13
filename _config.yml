@@ -1,0 +1,28 @@
+name: The Walsh
+favicon: null
+layout_spectrum: 0.7166205584071577
+typography_spectrum: 0.7965298728086054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.0837396108545363
+  lightness: 0.12857894459739327
+  saturation: 0.39314095955342054
+  rhythmicContrast: 0.6535809668712318
+purpose: []
